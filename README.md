@@ -29,7 +29,7 @@ sudo apt-get install unity-tweak-tool -y
 
 
 
-###### ubuntu rbenv,rails s 
+###### ubuntu rbenv,rails s [bitbucket](https://bitbucket.org/takagotch/rails-1st-settings/src/master/)
 ```
 // ubuntu setup
 sudo apt install git
