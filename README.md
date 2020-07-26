@@ -1,4 +1,4 @@
-### ubuntu
+### ubuntu | .dab ,apt,   | Debian linux mint
 ---
 
 http://ftp.riken.jp/Linux/ubuntu/
