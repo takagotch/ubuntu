@@ -17,8 +17,8 @@ https://github.com/chef/bento
 //　キーボードレイアウト
 // 日本語英語切り替え
 // Ctrl+Space
-
-
+//
+// Paste: Shift + Insert
 
 
 // Window Snipping
