@@ -1,4 +1,4 @@
-###### 自宅サーバー
+###### 自宅サーバー ubuntu
 ---
 http://centos.rcg.jp/
 
